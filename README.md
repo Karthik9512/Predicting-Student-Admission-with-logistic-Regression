@@ -58,5 +58,5 @@ Example prediction for a new student:
 | 58          | 67          | Yes / No |
 
 ---
-```bash
-git clone https://github.com/YOUR-USERNAME/student-admission-prediction.git
+
+
